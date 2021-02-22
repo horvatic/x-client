@@ -1,6 +1,6 @@
 # X Client
 
-## Links on libraries
+## Libraries
 https://xcb.freedesktop.org/
 
 https://xcb.freedesktop.org/DevelopersGuide/
